@@ -105,15 +105,15 @@ Make sure you have MySQL or any relational database management system installed 
 2. Open MySQL Workbench or any SQL client and run the queries step by step to create the database, table, insert sample data, and experiment with different SQL operations.
 
 3. Example:
-   ```sql
-   -- Create the database
-   CREATE DATABASE sql_intro;
+ ```sql
+-- Create the database
+CREATE DATABASE sql_intro;
 
-   -- Use the database
-   USE sql_intro;
+ -- Use the database
+ USE sql_intro;
 
-   -- Run the queries from the repository
-   ```
+ -- Run the queries from the repository
+ ```
 
 ## License
 
