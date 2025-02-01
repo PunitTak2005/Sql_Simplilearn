@@ -112,9 +112,7 @@ USE sql_intro;
 -- Run the queries from the repository
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 Repository Link: The git clone command points to my GitHub repository (https://github.com/PunitTak2005/sql_intro.git), making it easy to clone the repository and get started with the SQL script.
-```
