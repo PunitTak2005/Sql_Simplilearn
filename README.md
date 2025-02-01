@@ -1,7 +1,7 @@
 # Sql_Simplilearn
 Covers a solid foundation for SQL queries. 🚀
 
-Here's the **README.md** file for your GitHub repository with relevant information filled in:
+
 
 ```markdown
 # SQL Intro - Simplilearn Course
@@ -126,4 +126,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Queries**: Provided the details of the queries you worked on, making it easy for users to understand what the repo contains.
 - **License**: I've included a basic MIT License section. You can update it based on the license you prefer.
 
-You can copy and paste this into your **README.md** file for your repository!
