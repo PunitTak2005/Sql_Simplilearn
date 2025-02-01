@@ -1,6 +1,3 @@
-# Sql_Simplilearn
-Covers a solid foundation for SQL queries. 🚀
-
 
 
 ```markdown
@@ -105,19 +102,20 @@ Make sure you have MySQL or any relational database management system installed 
 2. Open MySQL Workbench or any SQL client and run the queries step by step to create the database, table, insert sample data, and experiment with different SQL operations.
 
 3. Example:
- ```sql
+```sql
 -- Create the database
 CREATE DATABASE sql_intro;
 
- -- Use the database
- USE sql_intro;
+-- Use the database
+USE sql_intro;
 
- -- Run the queries from the repository
- ```
+-- Run the queries from the repository
+```
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Repository Link: The git clone command points to my GitHub repository (https://github.com/PunitTak2005/sql_intro.git), making it easy to clone the repository and get started with the SQL script.
+```
 
