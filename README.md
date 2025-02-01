@@ -125,9 +125,4 @@ Repository Link: The git clone command points to my GitHub repository (https://g
 
 ```
 
-### Explanation of updates:
-
-- **Repository Link**: The `git clone` command now points to your GitHub repository (`https://github.com/PunitTak2005/sql_intro.git`).
-- **Queries**: Provided the details of the queries you worked on, making it easy for users to understand what the repo contains.
-- **License**: I've included a basic MIT License section. You can update it based on the license you prefer.
 
